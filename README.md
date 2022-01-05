@@ -1,4 +1,4 @@
-### Hi 👋, I'm Alexandru 👋
+### Hi 👋, I'm Alexandru
 
 <!--
 **AlexandruRudoi/AlexandruRudoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
