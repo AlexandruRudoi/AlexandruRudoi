@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Hi , I'm Alex👋</h1>
 <h3 align="center">...</h3>
-
-- 🌱 I’m currently learning **backend dev.**
 
 - 📫 How to reach me **...**
 
