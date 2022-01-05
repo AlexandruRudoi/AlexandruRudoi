@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Alex👋</h1>
-<h3 align="center">...</h3>
+<!-- <h3 align="center">...</h3>
 
-- 📫 How to reach me **...**
+- 📫 How to reach me **...** -->
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
